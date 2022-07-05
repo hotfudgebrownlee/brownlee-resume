@@ -33,7 +33,3 @@ title: Jaren Brownlee's Resume
 `GRADUATED JULY 2022`
 - Certificate in Data Analytics (Completed July 2021)
 - Certificate in Databases (Completed December 2021)
-
-<!-- ### Footer
-
-Last updated: July 2022 -->
