@@ -12,7 +12,7 @@ title: Jaren Brownlee's Resume
 
 ## Work Experience
 
-### __Digital Engineering Intern__, Idaho National Laboratory, *Idaho Falls, ID*
+### __Digital Engineering Intern__ <br/> Idaho National Laboratory <br/> *Idaho Falls, ID*
 `JULY 2022 - PRESENT`
 - Feature Development for [Deep Lynx Data Warehouse](https://gitlab.software.inl.gov/b650/Deep-Lynx/)
   - Refactored data pipeline using Typescript to allow for custom, user-defined metadata
@@ -21,7 +21,7 @@ title: Jaren Brownlee's Resume
 - Developed an ETL adapter from data warehouse to requirements management system in Python, leveraging existing REST API structures
 - Wrote documentation for guidance in usage of various tools and features
 
-### __Teacher's Assistant__, Brigham Young University-Idaho, *Rexburg, ID*
+### __Teacher's Assistant__ <br/> Brigham Young University-Idaho <br/> *Rexburg, ID*
 `APRIL 2020 - DECEMBER 2021`
 - Wrote curriculum for an entire database course, building assignments and quizzes around concepts of CRUD operations, stored SQL procedures, and database design
 - Taught principles of normalization and database design using MySQL Workbench's ERD and query tools
@@ -29,7 +29,7 @@ title: Jaren Brownlee's Resume
 
 ## Education
 
-### __Bachelor's, Information Technology__, Brigham Young University-Idaho, *Rexburg, ID*
+### __Bachelor's, Information Technology__ <br/> Brigham Young University-Idaho <br/> *Rexburg, ID*
 `GRADUATED JULY 2022`
 - Certificate in Data Analytics (Completed July 2021)
 - Certificate in Databases (Completed December 2021)
