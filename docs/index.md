@@ -15,17 +15,17 @@ title: Jaren Brownlee's Resume
 ### __Digital Engineering Intern__, Idaho National Laboratory, *Idaho Falls, ID*
 `JULY 2022 - PRESENT`
 - Feature Development for [Deep Lynx Data Warehouse](https://gitlab.software.inl.gov/b650/Deep-Lynx/)
-  - Refactored data pipeline using Typescript to allow for custom, </br> user-defined metadata
-  - Built a dynamically generated [GraphQL schema](https://gitlab.software.inl.gov/b650/Deep-Lynx/-/wikis/Querying-Data-With-GraphQL) for users to query </br> data in a human-readable fashion
-  - Built and ran unit tests against application features using Chai.js </br> and Mocha.js
-- Developed an ETL adapter from data warehouse to requirements management </br> system in Python, leveraging existing REST API structures
+  - Refactored data pipeline using Typescript to allow for custom,user-defined metadata
+  - Built a dynamically generated [GraphQL schema](https://gitlab.software.inl.gov/b650/Deep-Lynx/-/wikis/Querying-Data-With-GraphQL) for users to querydata in a human-readable fashion
+  - Built and ran unit tests against application features using Chai.jsand Mocha.js
+- Developed an ETL adapter from data warehouse to requirements managementsystem in Python, leveraging existing REST API structures
 - Wrote documentation for guidance in usage of various tools and features
 
 ### __Teacher's Assistant__, Brigham Young University-Idaho, *Rexburg, ID*
 `APRIL 2020 - DECEMBER 2021`
-- Wrote curriculum for an entire database course, building assignments and </br> quizzes around concepts of CRUD operations, stored SQL procedures, and </br> database design
-- Taught principles of normalization and database design using MySQL Workbench's </br> ERD and query tools
-- Lead groups of students in Agile sprint teams to perform automated API and UI </br> testing using the Python Selenium and Jest.js test frameworks
+- Wrote curriculum for an entire database course, building assignments andquizzes around concepts of CRUD operations, stored SQL procedures, anddatabase design
+- Taught principles of normalization and database design using MySQL Workbench'sERD and query tools
+- Lead groups of students in Agile sprint teams to perform automated API and UItesting using the Python Selenium and Jest.js test frameworks
 
 ## Education
 
