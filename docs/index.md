@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Jaren Brownlee's Resume
 ---
 # Jaren Brownlee
